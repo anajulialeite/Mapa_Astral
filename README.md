@@ -1,11 +1,12 @@
 # Mapa Astral
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" align="left" width="50" height="50"/>
-
-
 <img src="Imagem/signos.png" alt="signos" align="center" width="300">
 
 Esse é um blog que contém uma página index, sobre Touro, Meu Mapa Astral, Casas, Amor e Compatibilidade, Todos os signos e Curiosidades.
+
+## Linguagens que utilizei
+
+
 
 ## Demonstração
 
