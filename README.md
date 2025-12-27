@@ -11,3 +11,5 @@ Esse é um blog que contém uma página index, sobre Touro, Meu Mapa Astral, Cas
 ## Feito por
 
 ## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
