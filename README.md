@@ -8,7 +8,7 @@ Esse é um blog que contém uma página index, sobre Touro, Meu Mapa Astral, Cas
 
 <img src="Imagem/Index.png" alt="inicial" align="center" width="300">
 
-## Feito por
+## Autora 💜
 
 Ana Júlia de Lima Aguiar Leite
 
