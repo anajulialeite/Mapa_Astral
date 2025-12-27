@@ -6,7 +6,8 @@ Esse é um blog que contém uma página index, sobre Touro, Meu Mapa Astral, Cas
 
 ## Linguagens que utilizei
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" align="left" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" align="center" width="50" height="50"/>
 
 ## Demonstração
 
